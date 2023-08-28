@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1693229615 source:d:\ahmed_addulghafar\part1_c\c_project_db\c_project\c_project_db\main.c
+	<stdio.h>
+	"SDB.h"
+
+1693230308 d:\ahmed_addulghafar\part1_c\c_project_db\c_project\c_project_db\sdb.h
+	"STD.h"
+
+1693230306 d:\ahmed_addulghafar\part1_c\c_project_db\c_project\c_project_db\std.h
+
